@@ -30,6 +30,7 @@ Claton's behavioral pattern is best described as a **Deliberate Builder**: he we
 
 ## Growth Areas (frame positively in applications)
 - **Formal behavioral assessment:** No trusted formal assessment on file yet; frame as "self-aware and reflective about working style" rather than citing unverified test results
+- **Marketing / growth / social media:** Self-identified as a weaker area. Across his ventures, a strong product and a deep upfront development investment (e.g. ~$500k into CrossCurrent Digital's traditional development build) have not translated into scale, because the marketing/growth-and-distribution engine was underbuilt relative to the product. Frame positively as: values partnering with a marketing/growth function rather than owning it solo, and has learned firsthand that even a well-built product needs a matched go-to-market investment to scale - a role with in-house marketing/growth support (rather than requiring him to run it) is a stronger fit than another solo-founder situation
 
 ## Mapping to Job Posting Language
 
