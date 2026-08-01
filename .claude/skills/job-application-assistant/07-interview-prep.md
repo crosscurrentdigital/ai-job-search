@@ -56,6 +56,9 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 ### "Why are you looking for full-time employment after years as a founder?"
 > Be honest and forward-looking: the studio model (build to ~80% completion, hand off to an operating partner) works, but the goal now is to put full-cycle building skills to work for a single mission full-time, with the stability and focus that comes from one employer rather than juggling several ventures. Frame the founder background as evidence of capability, not as reluctance to be an employee.
 
+### "How would you manage your existing businesses alongside a full-time role?"
+> Day-to-day operations for the publishing companies (Two Words Publishing / Black Hills Audiobooks / Vision Audiobooks / Claton's Voice LLC) and CrossCurrent Digital are already handled by a contract worker, using a combination of ClickUp, custom-built software, and OrganizeMe.click. Combined with how the industry itself has changed (audiobook CD phaseouts, AI-generated audio production), those businesses run effectively without requiring his day-to-day hands-on involvement. This is a concrete, already-in-place answer, not a plan to build - use it directly rather than a vaguer "I'll figure it out" response.
+
 ### "Why did you leave [previous company]?"
 > [PREPARE YOUR ANSWER - be honest, forward-looking, no negativity about former employer]
 
