@@ -1,75 +1,91 @@
 # Search Queries for Job Scraper
 
-<!-- SETUP: Customize these queries based on your skills, target roles, and location -->
-
 ## Installed portal CLIs (primary for `/scrape`)
 
-`/scrape` discovers every portal skill under `.agents/skills/*/SKILL.md` and runs its CLI first. Shipped country-agnostic CLIs include `linkedin-search` and `freehire-search`; Danish demos and any skill you add with `/add-portal` are included the same way. You do **not** need a matching `site:` line below for those CLIs to run.
+`/scrape` discovers every portal skill under `.agents/skills/*/SKILL.md` and runs its CLI first. Shipped country-agnostic CLIs include `linkedin-search` and `freehire-search`.
+
+**Note:** Claton is US/South Dakota-based, so the Danish portal demos (`jobindex-search`, `jobbank-search`, `jobdanmark-search`, `jobnet-search`) do not apply to this market and should be skipped. Use `linkedin-search` and `freehire-search`, plus the WebSearch fallback queries below. Use `/add-portal` if a US-market portal CLI (e.g. Indeed) is wanted later.
 
 The `site:` query templates in this file are the **WebSearch fallback** — for portals without a CLI, company career pages, or when a CLI fails.
 
 ## Search Sites
 
-Primary (your market's job boards - scaffold one with `/add-portal`):
-- **[YOUR_JOB_BOARD]** - your market's largest general job board
-- **linkedin.com/jobs** - LinkedIn job listings (filter: [YOUR_COUNTRY] / [YOUR_CITY]); also covered by `linkedin-search` CLI
-- **[YOUR_INDUSTRY_JOB_BOARD]** - a niche/industry board for your field (optional)
-- **[YOUR_ADDITIONAL_JOB_BOARD]** - another major board for your market (optional)
+Primary:
+- **indeed.com** - largest general US job board
+- **linkedin.com/jobs** - LinkedIn job listings (filter: United States / remote); also covered by `linkedin-search` CLI
+- **christianjobs.com** - niche board for faith-based/ministry-adjacent roles
+- **weworkremotely.com** - remote-first roles, good fit for AI-first builder positions
 
 Secondary (company career pages via Google):
-- Direct Google searches with `site:` filters for known target companies
+- Direct Google searches with `site:` filters for known target companies (e.g. Hallow)
 
 ## Query Categories
 
-Queries are grouped by priority. Each query should be combined with your location terms (e.g. your city, region, or metro area) where the site supports it.
+### Priority 1: AI Transformation / AI-First Builder Roles
 
-### Priority 1: [YOUR_PRIMARY_ROLE_TYPE]
-
-These match your strongest and most desired career direction.
+These match Claton's strongest and most desired career direction.
 
 ```
-site:[YOUR_JOB_BOARD] "[YOUR_PRIMARY_JOB_TITLE]" [YOUR_CITY]
-site:[YOUR_JOB_BOARD] "[YOUR_KEY_SKILL]" [YOUR_CITY]
-site:linkedin.com/jobs "[YOUR_PRIMARY_JOB_TITLE]" [YOUR_COUNTRY]
+site:indeed.com "AI Transformation Lead" remote
+site:indeed.com "AI Solutions Architect" remote
+site:linkedin.com/jobs "AI Transformation" OR "AI Implementation Lead" remote
+site:linkedin.com/jobs "Head of AI" OR "AI Strategy Lead" remote
 ```
 
-### Priority 2: [YOUR_DOMAIN_EXPERTISE]
+### Priority 2: Faith-Based / Mission-Driven Organizations
 
-These match your domain expertise.
-
-```
-site:[YOUR_JOB_BOARD] [YOUR_DOMAIN_KEYWORD_1] [YOUR_CITY] OR [YOUR_REGION]
-site:[YOUR_JOB_BOARD] [YOUR_DOMAIN_KEYWORD_2] [YOUR_COUNTRY]
-site:linkedin.com/jobs [YOUR_DOMAIN_KEYWORD_1] [YOUR_CITY] [YOUR_COUNTRY]
-```
-
-### Priority 3: [YOUR_ADJACENT_ROLE_TYPE]
-
-Adjacent roles you could pivot into.
+These match Claton's strongly preferred target sector.
 
 ```
-site:[YOUR_JOB_BOARD] "[YOUR_ADJACENT_TITLE_1]" [YOUR_KEY_SKILL] [YOUR_CITY]
-site:[YOUR_JOB_BOARD] "[YOUR_ADJACENT_TITLE_2]" [YOUR_KEY_SKILL] [YOUR_CITY]
+site:christianjobs.com "AI" OR "technology" OR "digital"
+site:indeed.com "AI" "Christian" OR "faith-based" OR "ministry" remote
+site:linkedin.com/jobs "AI" ministry OR nonprofit OR "faith-based" remote
 ```
 
-### Priority 4: Broader Technical / Consulting
+### Priority 3: Adjacent Roles (Staff Engineer / Fractional CTO)
 
-Wider net for general technical roles.
+Adjacent roles Claton could pivot into.
 
 ```
-site:[YOUR_JOB_BOARD] [YOUR_KEY_SKILL] developer [YOUR_CITY]
-site:linkedin.com/jobs "[YOUR_KEY_SKILL] developer" [YOUR_CITY]
-site:[YOUR_JOB_BOARD] "technical consultant" [YOUR_DOMAIN] [YOUR_CITY]
+site:indeed.com "Staff Engineer" "rapid prototyping" remote
+site:indeed.com "Fractional CTO" AI remote
+site:linkedin.com/jobs "Staff Engineer" "AI-first" remote
+```
+
+### Priority 4: Broader AI Consulting / Builder (full-time, part-time, or contract)
+
+Wider net for general AI-first technical/consulting roles. Claton is open to part-time and contract/consulting work, not just full-time - part-time/contract pay is not expected to hit the $80k+ full-time floor, so don't filter these out on salary alone.
+
+```
+site:indeed.com "AI consultant" remote
+site:linkedin.com/jobs "AI builder" OR "applied AI engineer" remote
+site:linkedin.com/jobs "AI consultant" contract OR "part-time" remote
+site:weworkremotely.com AI
+```
+
+### Priority 5: Denominational / Church Organization Roles
+
+```
+site:christianjobs.com "director of technology" OR "digital ministry" OR AI
+site:linkedin.com/jobs "denominational" OR "conference office" OR "district office" technology remote
+```
+
+### Long-Shot Passion Search: Baseball Organizations
+
+Low-priority, run occasionally rather than every scrape. Claton is a lifelong baseball fan and would take a fitting technical/AI role with a minor or major league organization if one ever surfaced, though this is recognized as a long shot given the career background.
+
+```
+site:teamworkonline.com AI OR technology OR "product"
+site:linkedin.com/jobs "AI" OR "technology" "minor league baseball" OR "MiLB"
+site:linkedin.com/jobs "AI" OR "technology" "major league baseball" OR "MLB"
 ```
 
 ## Location Filter
 
-When evaluating results, verify the job location is within reasonable commute distance from your home. Define acceptable areas:
-- [YOUR_CITY] and surrounding areas
-- [ACCEPTABLE_AREA_1]
-- [ACCEPTABLE_AREA_2]
-- [BORDERLINE_AREA] (borderline - ~X min by transit)
-- [TOO_FAR_AREA] (too far)
+When evaluating results, verify the job is remote or within Rapid City, SD. Define acceptable areas:
+- Remote (United States) - ideal
+- Rapid City, SD and surrounding areas - acceptable (on-site/hybrid)
+- Anywhere else on-site or requiring relocation - too far (deal-breaker, exclude)
 
 ## Date Filter
 
@@ -79,3 +95,7 @@ Only include jobs posted within the last 14 days, or with an application deadlin
 
 If the user specifies a focus area, select queries from the matching category and also generate 2-3 custom queries for that focus. For example:
 - "/scrape [focus_area]" -> relevant category queries + custom focus-specific queries
+
+## Target Companies to Monitor
+
+- **Hallow** (already applied to an AI Transformation Lead-type role, ~$120k-$200k) - check for additional openings or status

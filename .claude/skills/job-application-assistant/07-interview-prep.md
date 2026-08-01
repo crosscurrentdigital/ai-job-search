@@ -14,32 +14,40 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 
 ## Ready-Made STAR Examples
 
-<!-- These are populated by /setup from your actual experience. Below are templates showing the format. -->
+### 1. Rapid promotion and training leadership at Vitamin World (leading people with far more experience/age)
+**S:** Joined Vitamin World with no management background.
+**T:** Needed to build credibility and train staff of all experience levels, from teenagers through workers in their 60s, across roughly 10 stores at peak.
+**A:** Personally trained people with zero retail experience up to a management-level baseline, adapting the approach whether the role was a few solo hours a week at a small storefront or leading a full team.
+**R:** Rose through 4 levels of promotion within a few years, reaching Senior Training Manager while still in his early 20s.
+**Use for:** "Tell me about a time you led a team", "How do you handle managing people older or more experienced than you?"
 
-### 1. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT - what was happening, what was the problem]
-**T:** [YOUR RESPONSIBILITY - what you specifically needed to do]
-**A:** [WHAT YOU DID - specific actions, tools, methods]
-**R:** [OUTCOME - measurable results, adoption, impact]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+### 2. Building WatchSafe.app end-to-end (AI-assisted rapid product development)
+**S:** Identified a gap in tools giving parents real pre-approval control over what their kids watch on YouTube, rather than after-the-fact monitoring.
+**T:** Needed to architect, build, and ship a consumer app solo, from concept to a live product.
+**A:** Personally architected and built the app end-to-end using Claude Code and modern AI-assisted development tools, implementing a pre-approval model with 100+ granular-to-global controls; filed a patent (micro-entity status) covering the mechanism.
+**R:** WatchSafe.app is live with early paid subscribers and in active partnership discussions with faith-based media distributors.
+**Use for:** "Tell me about a complex technical project you owned end to end", "How do you use AI tools in your work?", "Tell me about a time you shipped something quickly"
 
-### 2. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT]
-**T:** [YOUR RESPONSIBILITY]
-**A:** [WHAT YOU DID]
-**R:** [OUTCOME]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+### 3. Founding CrossCurrent Digital in response to censorship (initiative / values-driven action)
+**S:** Amazon removed "When Harry Became Sally" by Ryan T. Anderson, a book Claton had published, from its platform.
+**T:** Wanted to protect authors and readers who hold to biblical values from being subject to a single platform's content decisions.
+**A:** Founded CrossCurrent Digital, a faith-based alternative to Audible and Kindle for audiobooks, e-books, and podcasts.
+**R:** Five years in operation as a functioning alternative platform for Christian content.
+**Use for:** "Tell me about a time you took initiative", "Tell me about acting on your values under pressure", "Why does mission alignment matter to you?"
 
-### 3. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT]
-**T:** [YOUR RESPONSIBILITY]
-**A:** [WHAT YOU DID]
-**R:** [OUTCOME]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+### 4. ChildThrive.org and the foster care connection (personal experience translated into professional work)
+**S:** Serves as a foster parent and has seen firsthand where the child welfare system creates friction for families and caseworkers.
+**T:** Wanted to build something that addressed a gap he had personally experienced, rather than staying purely anecdotal.
+**A:** Architected ChildThrive.org, a patent-pending child welfare platform, and built relationships with national child-welfare and adoption ministries to inform and support it.
+**R:** *[Add specific traction/results once available, e.g. confirmed partnerships, users onboarded, ministry endorsements]*
+**Use for:** "Tell me about a time personal experience shaped your professional work", "Why do you care about this mission?"
 
 <!-- Add more STAR examples as needed. Aim for 4-6 covering different competencies. -->
 
 ## Common Tough Questions
+
+### "Why are you looking for full-time employment after years as a founder?"
+> Be honest and forward-looking: the studio model (build to ~80% completion, hand off to an operating partner) works, but the goal now is to put full-cycle building skills to work for a single mission full-time, with the stability and focus that comes from one employer rather than juggling several ventures. Frame the founder background as evidence of capability, not as reluctance to be an employee.
 
 ### "Why did you leave [previous company]?"
 > [PREPARE YOUR ANSWER - be honest, forward-looking, no negativity about former employer]

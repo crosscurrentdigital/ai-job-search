@@ -1,10 +1,7 @@
-# Job Application Assistant for [YOUR_NAME]
-
-<!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
+# Job Application Assistant for Claton Butcher
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
+This repo is a job application workspace. Claude acts as a career advisor and application assistant for Claton Butcher, helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
@@ -13,70 +10,93 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 ## Candidate Profile
 
-<!-- This section is auto-populated by /setup. You can also fill it in manually. -->
-
 ### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
-- **Languages:** [YOUR_LANGUAGES]
-- **CV language:** [YOUR_CV_LANGUAGE] <!-- English unless your market expects otherwise; /setup asks -->
+- **Name:** Claton Butcher
+- **Location:** Rapid City, South Dakota (remote-only, or on-site/hybrid in Rapid City, SD; not open to relocation)
+- **Languages:** English (native)
+- **CV language:** English
 
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+- **Status:** Founder & business operator (currently self-employed across several ventures; actively seeking full-time employment)
+- **LinkedIn headline:** "Founder & Product Builder — Faith-Driven Software & Publishing"
 
 ### Education
-<!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- **B.A. in Music** (1998-2002) - Oklahoma Wesleyan University
+  - Topics: Music theory and performance; foundation for later worship ministry leadership roles
 
 ### Professional Experience
-<!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- **Founder & President** (Present) - **102:18 INC (C-Corp) / Crucible Lab LLC** (Rapid City, SD)
+  - Operates a build-to-near-launch product studio: designs, builds, and ships apps to roughly 80% completion, then hands off to an operating partner under a split-upside model
+  - Personally architected and shipped multiple consumer apps end-to-end using AI-assisted coding tools (Claude Code, Cursor), including a child-safety monitoring app, a memorization/learning app, and a family-facing web platform
+  - Filed three patents (micro-entity status confirmed) covering original product mechanics across the portfolio
+  - Manages infrastructure across roughly 12 cloud environments (Fly.io, Netlify) supporting live production apps, including a private MCP server ("the Forge") powering multiple production apps
+- **Founder & Owner** (Present) - **Two Words Publishing / Black Hills Audiobooks / Vision Audiobooks / Claton's Voice LLC**
+  - Builds and operates a group of Christian and general-market audiobook and publishing companies; Two Words Publishing is the primary revenue engine funding the broader studio
+  - Published titles in partnership with nearly every major Christian publisher
+  - Manages narrator revenue-share and royalty models across multiple imprints
+  - Navigated multiple industry disruptions, from audiobook CD phaseouts to AI-generated audio production
+- **Senior Training Manager** (2003-2013) - **Vitamin World, INC**
+  - Rose through 4 levels of promotion within a few years, reaching Senior Training Manager while in his early 20s
+  - Oversaw approximately 10 stores at peak, managing and training staff ranging from late teens through 60s
+  - Trained people with no prior experience up to a management-level baseline, across storefronts ranging from a few solo hours a week to a full team
+- **Music Pastor** (2013-2017) - **First Wesleyan Church** (Rapid City, SD)
+  - Led worship and organized worship ministry volunteers across a wide range of ages and temperaments, from teenagers through their 70s
+- **Worship Leader** (2003-2013) - **Open Arms, A Wesleyan Church** (Scottsdale, AZ)
+  - Led worship and organized worship ministry volunteers across a wide range of ages and temperaments, from teenagers through their 70s
+
+### Independent Projects
+- **WatchSafe.app** - patent-pending child-safety monitoring app for parents; 100+ granular-to-global controls over YouTube through a pre-approval model; live with early paid subscribers
+- **RouteCaster.app** - patent pending; travel-weather and route-planning platform integrating ~12-15 APIs (NOAA weather/wind, road conditions, fuel pricing, truck/RV restrictions, POI discovery, lodging/campsite booking)
+- **CrossCurrent Digital** - faith-based alternative to Audible and Kindle for audiobooks, e-books, and podcasts; five years in operation; founded in direct response to Amazon's removal of a title Claton had published
+- **ChildThrive.org** - patent-pending child welfare platform, grown out of Claton's personal experience as a foster parent; built relationships with national child-welfare and adoption ministries
+- **Crucible-MCP** - custom-built MCP server integrating multiple apps with AI tools (Claude Code); powers BizPilotAI.app and other products
+- **BizPilotAI.app** - second-brain, content-generation, and agentic content-creation/posting platform
+- **OrganizeMe.click** - personal productivity and task-management platform integrating Zoom, Stripe, and ClickUp
+- **ScriptLoop.app** - pre-launch memorization app for scripture, facts, and figures
+- **PrayerTracker.app** - prayer-tracking app with church "prayer chain" capabilities
+- **KeepsakeVault.app** - digital scrapbook app for kids' everyday moments; in final app-store launch prep
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Primary:** AI-assisted rapid development (Claude Code, Claude API/Max, Cursor), full-cycle product architecture, AI transformation and process auditing
+- **Secondary:** Replit, Lovable, Greta; Fly.io, Netlify, GitHub, Neon Postgres, Dropbox; custom MCP server development; Capacitor, React Native
+- **Domain:** Faith-based/Christian publishing and media; child-safety and child-welfare technology; foster care system experience; bootstrapped multi-entity operations
+- **Software:** Stripe / Stripe Tax, QuickBooks, multi-entity accounting across an LLC/C-corp structure
 
 ### Certifications
-<!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+- **Colson Fellowship** - Colson Center for Christian Worldview - 2025-2026, Colson Fellow
 
 ### Publications
-<!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+- None at this time.
 
 ### Awards
-<!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+- None at this time.
 
 ### Behavioral Profile
-<!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+- **Deliberate decision-maker** - Weighs decisions slowly and carefully, but becomes quick and decisive once a decision is made
+- **Builder-energized** - Energized by building things and solving concrete problems
+- **Strengths:** Full-cycle ownership (product, architecture, go-to-market), rapid AI-assisted execution, faith-informed judgment about which projects and partnerships to pursue
+- **Growth areas:** Not yet formally assessed (a StrengthsFinder result exists but was taken during a period of exhaustion and is not considered reliable; can be revisited if retaken)
+- **Thrives in:** Lean, builder-first environments where he can own meaningful scope end-to-end, or partner alongside an existing team, at organizations whose mission he can genuinely stand behind
 
 ### What Excites You
-<!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+- Building and shipping AI-first products and solutions quickly
+- Auditing an organization's current services and procedures to find where AI can help, then building the custom solution
+- Helping organizations adopt AI in a way that is genuinely helpful, not a burden or a source of confusion
+- Mission-driven work connected to faith, family, and child welfare/foster care
+- Baseball - a personal passion; a role with a minor or major league baseball organization would be a dream fit, though recognized as a long shot given the career background
 
 ### Target Sectors
-<!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- Faith-based / Christian organizations: e.g. Hallow (already applied), Christian publishers, ministries, denominational/church organizations
+- Foster care & child welfare organizations: nonprofits, adoption/foster agencies, faith-based child-welfare ministries
+- AI transformation / AI consulting: any mission-aligned organization seeking to audit its services and adopt custom AI solutions
+- Baseball / sports organizations (minor or major league): long-shot passion sector, worth surfacing if a fitting technical/AI role appears
 
 ### Deal-breakers
-<!-- Hard constraints on job search -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- Not remote and not based in Rapid City, SD (not open to relocation)
+- For full-time roles: below the $80k salary floor (targeting $120k-$200k for AI Transformation Lead / Staff Engineer-tier roles)
+
+### Work Arrangement Flexibility
+- Open to full-time, part-time, contract/consulting, or denominational roles, not full-time employment only
+- Part-time/contract work is not expected to clear the $80k full-time floor, but should offer genuinely worthwhile compensation for the time and value provided
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)

@@ -4,51 +4,47 @@ framework_version: 1.0.0
 
 # Behavioral Profile
 
-<!-- SETUP: This file is populated by running /setup -->
-<!-- You can use results from PI, DISC, Myers-Briggs, StrengthsFinder, or a self-assessment -->
+<!-- No formal PI/DISC/Myers-Briggs assessment on file. A CliftonStrengths (StrengthsFinder) result exists but was taken during a period of exhaustion and was excluded as unreliable; retake and fold in via /setup --section behavioral if a trusted result becomes available. -->
 
 ## Overview
-[YOUR_NAME]'s behavioral assessment identifies them as a **[PROFILE_TYPE]** pattern. [1-2 SENTENCE_SUMMARY].
+Claton's behavioral pattern is best described as a **Deliberate Builder**: he weighs decisions slowly and carefully, but once a decision is made, moves quickly and decisively to execute it. He is most energized by hands-on building and solving concrete problems, and consistently evaluates opportunities against a mission/values-alignment filter before committing.
 
 ## Core Behavioral Drives
 
 | Drive | Level | Meaning |
 |-------|-------|---------|
-| [DRIVE_1] | [LEVEL] | [DESCRIPTION] |
-| [DRIVE_2] | [LEVEL] | [DESCRIPTION] |
-| [DRIVE_3] | [LEVEL] | [DESCRIPTION] |
-| [DRIVE_4] | [LEVEL] | [DESCRIPTION] |
+| Decision speed | Deliberate before, decisive after | Weighs options carefully before committing, then executes quickly without second-guessing |
+| Energy source | Building & problem-solving | Most energized by hands-on creation and solving concrete problems, not by pure maintenance or administrative upkeep |
+| Values alignment | High | Requires genuine alignment between personal faith/values and an organization's mission before taking on work |
+| Ownership style | Full-cycle | Comfortable owning an entire scope (product, architecture, go-to-market) rather than a narrow lane, but also able to partner alongside an existing team |
 
 ## Strongest Behaviors
-- **[BEHAVIOR_1]:** [DESCRIPTION]
-- **[BEHAVIOR_2]:** [DESCRIPTION]
-- **[BEHAVIOR_3]:** [DESCRIPTION]
+- **Full-cycle ownership:** Comfortable being the single technical/product owner in a lean org, or partnering with an existing engineering team
+- **Faith-informed judgment:** Evaluates every build or commitment against a mission and harm/exploitation filter before proceeding
+- **Rapid AI-assisted execution:** Moves from concept to a working, shipped product in weeks using modern AI tooling
 
 ## How You Work Best
-- [ENVIRONMENT_PREFERENCE_1]
-- [ENVIRONMENT_PREFERENCE_2]
-- [ENVIRONMENT_PREFERENCE_3]
+- Environments where meaningful scope can be owned end-to-end, not a narrow slice of a larger process
+- Organizations whose mission can genuinely be stood behind, not just tolerated
+- Fast-moving, builder-first cultures that use modern AI tooling rather than resist it
 
 ## Growth Areas (frame positively in applications)
-- **[AREA_1]:** [HOW_TO_FRAME_IT_POSITIVELY]
-- **[AREA_2]:** [HOW_TO_FRAME_IT_POSITIVELY]
+- **Formal behavioral assessment:** No trusted formal assessment on file yet; frame as "self-aware and reflective about working style" rather than citing unverified test results
 
 ## Mapping to Job Posting Language
 
 When a job posting mentions these keywords, it's a **strong behavioral fit**:
-- [KEYWORD_OR_PHRASE_THAT_MATCHES_YOUR_STYLE]
-- [ANOTHER_KEYWORD]
+- "mission-driven," "faith-based," "AI-first," "rapid prototyping," "builder," "ownership," "0-to-1," "autonomy"
 
 When a job posting mentions these, flag as **potential friction** (not deal-breaker):
-- [KEYWORD_OR_PHRASE_THAT_MIGHT_CLASH]
-- [ANOTHER_KEYWORD]
+- "highly structured process," "committee-driven decision-making," "narrow scope," "maintenance-focused"
 
 ## Management Style Preferences
-- [WHAT_MANAGEMENT_STYLE_WORKS_FOR_YOU]
-- [WHAT_DOESN'T_WORK]
+- Works well with light-touch management once trust is established: wants a clear mission and outcome, with autonomy on execution
+- Doesn't work well with micromanagement of process or method once results are being delivered
 
 ## Using This in Applications
-- **Cover letters:** [HOW_TO_WEAVE_IN_BEHAVIORAL_STRENGTHS]
-- **CV:** [WHAT_TO_EMPHASIZE]
-- **Interviews:** [WHAT_STAR_EXAMPLES_TO_USE]
-- **Don't overstate:** [WHAT_NOT_TO_CLAIM]
+- **Cover letters:** Emphasize the deliberate-then-decisive decision style and genuine mission alignment with the employer
+- **CV:** Emphasize full-cycle ownership and rapid, AI-assisted execution
+- **Interviews:** Use founder/product examples (WatchSafe.app, CrossCurrent Digital, ChildThrive.org) to demonstrate ownership and decisiveness
+- **Don't overstate:** No formal, verified behavioral assessment backs this profile; do not claim a certified DISC/StrengthsFinder-type result in applications

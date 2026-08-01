@@ -44,9 +44,9 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 40-59 | Partial match, significant upskilling needed |
 | 0-39 | Fundamental mismatch |
 
-**Strong match areas:** [YOUR_PRIMARY_SKILLS]
-**Moderate match areas:** [YOUR_SECONDARY_SKILLS]
-**Weak match areas:** [SKILLS_YOU_LACK]
+**Strong match areas:** AI-assisted rapid development (Claude Code, Claude API, Cursor), full-cycle product/technical architecture, faith-based/Christian sector domain knowledge, bootstrapped multi-entity business operations
+**Moderate match areas:** Formal engineering leadership at corporate scale (has led volunteers and retail staff, not large engineering orgs), enterprise process/compliance-heavy environments
+**Weak match areas:** Deep classical software engineering/CS-theory background (no formal CS degree; skills are self-taught via AI-assisted tooling), large bureaucratic enterprise environments
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for?
@@ -58,9 +58,9 @@ Does work history align with what they're looking for?
 | 40-59 | Adjacent experience, would need to make the case |
 | 0-39 | Unrelated experience |
 
-**Strong:** [YOUR_DIRECT_EXPERIENCE_DOMAINS]
-**Moderate:** [YOUR_ADJACENT_EXPERIENCE]
-**Entry-level:** [ROLES_WITH_LIMITED_EXPERIENCE]
+**Strong:** Building and shipping software products end-to-end with AI-assisted tools; Christian publishing/media operations; auditing workflows to find where AI/automation helps
+**Moderate:** People development and process training at scale (Vitamin World: promoted staff with no prior experience up to management level across ~10 stores); church/ministry leadership and volunteer coordination
+**Entry-level:** N/A
 
 ### 3. Behavioral/Culture Fit (0-100)
 Does the role and company culture match the behavioral profile?
@@ -91,19 +91,23 @@ Does this role advance career goals and contain tasks that energize?
 | 0-39 | Dead end or backwards step |
 
 **Career goals:**
-- [YOUR_CAREER_GOAL_1]
-- [YOUR_CAREER_GOAL_2]
-- [YOUR_CAREER_GOAL_3]
+- Move into an employed role (not another founder venture) at a mission-driven or faith-based organization - open to full-time, part-time, contract/consulting, or denominational-organization roles
+- Serve as an AI transformation lead/consultant/builder: audit current services and procedures, identify where AI can help, build custom AI solutions, and guide the organization through adoption so AI is genuinely helpful rather than a burden or source of confusion
+- For full-time roles, land in the $120k-$200k range (absolute floor: $80k); part-time/contract work is evaluated on whether the pay is genuinely worthwhile for the time, not against the $80k floor
+- Long-shot passion sector: a minor or major league baseball organization, if a fitting technical/AI role ever appears
 
 **Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: [YOUR_ENERGIZING_TASKS]
-- Tasks that drain: [YOUR_DRAINING_TASKS]
-- Non-task factors: leadership style, department culture, company values, degree of autonomy
+- Tasks that energize: Building and shipping things, solving concrete problems, rapid AI-assisted prototyping, turning a messy process into a working AI-assisted solution
+- Tasks that drain: *[Not yet directly confirmed by the candidate - infer cautiously: pure maintenance work with no building component, highly bureaucratic committee-driven decision-making. Verify with the candidate before treating as a scoring input.]*
+- Non-task factors: must be able to genuinely stand behind the organization's mission and values (near-mandatory for faith-based/Christian-organization targets); autonomy over execution once a decision is made
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: [YOUR_FINANCIAL_SITUATION_CONTEXT]
-- **Flexibility**: [YOUR_SCHEDULE_CONSTRAINTS]
-- **Professional development**: [YOUR_GROWTH_PRIORITIES]
+- **Security**: Currently self-employed running multiple ventures (Crucible Lab, 102:18 INC, Two Words Publishing group); motivated to transition into a stable full-time role in the $120k-$200k range
+- **Flexibility**: Remote-only, or on-site/hybrid in Rapid City, SD; not open to relocation
+- **Professional development**: Wants to grow further into AI transformation/builder work at a mission-aligned organization
+
+## Calibration from Past Applications
+- Applied to **Hallow** for an AI Transformation Lead-type role (~$120k-$200k); outcome not yet known. Treat this as a reference example of an ideal-fit target role and title when scoring similar postings.
 
 ### 6. Salary Benchmark (Optional)
 

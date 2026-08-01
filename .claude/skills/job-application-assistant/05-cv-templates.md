@@ -115,12 +115,11 @@ When the role sits outside your home domain, **lead with the domain-transfer arg
 
 **Create 2-3 profile statement templates for your main role types:**
 
-<!-- SETUP: These are populated based on your background -->
-**For [YOUR_PRIMARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_1]
+**For AI Transformation / Builder roles:**
+> AI-first builder who ships production software end-to-end using Claude Code and modern AI-assisted tooling. Personally architected and launched multiple consumer and B2B applications, three with patents pending, while operating the infrastructure and business systems (Fly.io, Netlify, Neon Postgres, multi-entity accounting) that support them. Built and operates a private MCP server ("the Forge") integrating AI tools across a live production portfolio. Brings the same audit-then-build approach to organizations: reviewing current services and procedures, identifying where AI can help, and implementing solutions that make AI genuinely useful rather than a burden or a source of confusion.
 
-**For [YOUR_SECONDARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_2]
+**For faith-based / mission-driven organizational roles:**
+> Founder and operator of a group of Christian publishing and audiobook companies, including CrossCurrent Digital, built in direct response to Amazon's removal of a book he had published, in order to protect content that stands firm on biblical values. Combines hands-on technical building with faith-informed judgment, evaluating every product and partnership against a mission and harm-avoidance filter before committing resources. Comfortable serving as the sole technical or product owner within a lean, mission-driven organization, or partnering alongside an existing team.
 
 Statements labeled *[Used for: <company>_<role>]* were extracted from archived application drafts by `/setup` Path A. They are **phrasing references, never fact sources**: when drafting from one, every factual claim still comes from `01-candidate-profile.md` - a past tailored draft does not vouch for its own accuracy.
 
