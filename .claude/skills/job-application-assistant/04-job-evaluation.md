@@ -102,9 +102,9 @@ Does this role advance career goals and contain tasks that energize?
 - Non-task factors: must be able to genuinely stand behind the organization's mission and values (near-mandatory for faith-based/Christian-organization targets); autonomy over execution once a decision is made
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: Currently self-employed running multiple ventures (Crucible Lab, 102:18 INC, Two Words Publishing group); motivated to transition into a stable full-time role in the $120k-$200k range
-- **Flexibility**: Remote-only, or on-site/hybrid in Rapid City, SD; not open to relocation
-- **Professional development**: Wants to grow further into AI transformation/builder work at a mission-aligned organization
+- **Security**: Currently self-employed running multiple ventures (Crucible Lab, 102:18 INC, Two Words Publishing group). Steady, predictable income is now a high priority - family is in the process of adopting another child, which raises the weight on stable full-time employment over further founder-style risk. *(Internal fit-evaluation context only - never surface family/adoption details in a CV or cover letter.)*
+- **Flexibility**: Remote-only, or on-site/hybrid in Rapid City, SD; not open to relocation. Actively looking to move away from the grueling, self-imposed hours of solo-founder work toward a sustainable workload - weight roles with reasonable hours and healthy boundaries higher, and flag postings that signal always-on/crunch culture
+- **Professional development**: Wants to grow further into AI transformation/builder work at a mission-aligned organization, ideally with more structural support (team, process) than solo founding provides
 
 ## Calibration from Past Applications
 - Applied to **Hallow** for an AI Transformation Lead-type role (~$120k-$200k); outcome not yet known. Treat this as a reference example of an ideal-fit target role and title when scoring similar postings.

@@ -44,16 +44,16 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
   - Led worship and organized worship ministry volunteers across a wide range of ages and temperaments, from teenagers through their 70s
 
 ### Independent Projects
-- **WatchSafe.app** - patent-pending child-safety monitoring app for parents; 100+ granular-to-global controls over YouTube through a pre-approval model; live with early paid subscribers
-- **RouteCaster.app** - patent pending; travel-weather and route-planning platform integrating ~12-15 APIs (NOAA weather/wind, road conditions, fuel pricing, truck/RV restrictions, POI discovery, lodging/campsite booking)
-- **CrossCurrent Digital** - faith-based alternative to Audible and Kindle for audiobooks, e-books, and podcasts; five years in operation; founded in direct response to Amazon's removal of a title Claton had published
-- **ChildThrive.org** - patent-pending child welfare platform, grown out of Claton's personal experience as a foster parent; built relationships with national child-welfare and adoption ministries
+- **[WatchSafe.app](https://watchsafe.app)** - patent-pending child-safety monitoring app for parents; 100+ granular-to-global controls over YouTube through a pre-approval model; live with early paid subscribers
+- **[RouteCaster.app](https://routecaster.app)** - patent pending; travel-weather and route-planning platform integrating ~12-15 APIs (NOAA weather/wind, road conditions, fuel pricing, truck/RV restrictions, POI discovery, lodging/campsite booking)
+- **[CrossCurrent Digital](https://crosscurrentdigital.com)** - faith-based alternative to Audible and Kindle for audiobooks, e-books, and podcasts; five years in operation; founded in direct response to Amazon's removal of a title Claton had published
+- **[ChildThrive.org](https://childthrive.org)** - patent-pending child welfare platform, grown out of Claton's personal experience as a foster parent; built relationships with national child-welfare and adoption ministries
 - **Crucible-MCP** - custom-built MCP server integrating multiple apps with AI tools (Claude Code); powers BizPilotAI.app and other products
-- **BizPilotAI.app** - second-brain, content-generation, and agentic content-creation/posting platform
-- **OrganizeMe.click** - personal productivity and task-management platform integrating Zoom, Stripe, and ClickUp
-- **ScriptLoop.app** - pre-launch memorization app for scripture, facts, and figures
-- **PrayerTracker.app** - prayer-tracking app with church "prayer chain" capabilities
-- **KeepsakeVault.app** - digital scrapbook app for kids' everyday moments; in final app-store launch prep
+- **[BizPilotAI.app](https://bizpilotai.app)** - second-brain, content-generation, and agentic content-creation/posting platform
+- **[OrganizeMe.click](https://organizeme.click)** - personal productivity and task-management platform integrating Zoom, Stripe, and ClickUp
+- **[ScriptLoop.app](https://scriptloop.app)** - pre-launch memorization app for scripture, facts, and figures
+- **[PrayerTracker.app](https://prayertracker.app)** - prayer-tracking app with church "prayer chain" capabilities
+- **[KeepsakeVault.app](https://keepsakevault.app)** - digital scrapbook app for kids' everyday moments; in final app-store launch prep
 
 ### Technical Skills
 - **Primary:** AI-assisted rapid development (Claude Code, Claude API/Max, Cursor), full-cycle product architecture, AI transformation and process auditing
@@ -97,6 +97,7 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 ### Work Arrangement Flexibility
 - Open to full-time, part-time, contract/consulting, or denominational roles, not full-time employment only
 - Part-time/contract work is not expected to clear the $80k full-time floor, but should offer genuinely worthwhile compensation for the time and value provided
+- **Steady, predictable full-time employment is currently the top priority** - family is growing through adoption, and there is a strong desire to move away from the grueling, self-imposed hours of solo-founder work toward sustainable, reasonable hours. Weight roles that offer real stability and healthy boundaries higher; flag postings that signal always-on/crunch culture. *(This is internal fit-evaluation context only - never reference family, adoption, or personal life circumstances in a CV or cover letter.)*
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)

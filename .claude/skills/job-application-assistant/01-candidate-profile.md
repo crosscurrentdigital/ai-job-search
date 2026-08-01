@@ -53,16 +53,16 @@ Scottsdale, AZ
 - Led worship and organized worship ministry volunteers across a wide range of ages and temperaments, from teenagers through their 70s
 
 ## Independent Projects
-- **WatchSafe.app**: Patent-pending child-safety monitoring app for parents; 100+ granular-to-global controls over YouTube through a pre-approval model; live with early paid subscribers; in active partnership discussions with faith-based media distributors
-- **RouteCaster.app**: Patent pending; most complex codebase in the portfolio, live and in testing (pre-app-store); travel-weather and route-planning platform integrating ~12-15 APIs (NOAA weather/wind, road conditions, fuel pricing, truck/RV restrictions, POI discovery, lodging/campsite booking)
-- **CrossCurrent Digital**: Faith-based alternative to Audible and Kindle for audiobooks, e-books, and podcasts; five years in operation; founded in direct response to Amazon's removal of "When Harry Became Sally" by Ryan T. Anderson, a book Claton had published
-- **ChildThrive.org**: Patent-pending child welfare platform, grown out of Claton's personal experience as a foster parent; built relationships with national child-welfare and adoption ministries
-- **Crucible-MCP**: Custom-built MCP server integrating multiple apps with AI tools (Claude Code); powers BizPilotAI.app and other products
-- **BizPilotAI.app**: Second-brain, content-generation, and agentic content-creation/posting platform
-- **OrganizeMe.click**: Personal productivity and task-management platform integrating Zoom, Stripe, and ClickUp, with custom OCR for Samsung Notes and reMarkable Notes
-- **ScriptLoop.app**: Pre-launch memorization app for scripture, facts, and figures; built for spiritual formation, homeschool, and educational use
-- **PrayerTracker.app**: App for tracking prayers, answered prayers, and time spent in prayer, with church "prayer chain" capabilities
-- **KeepsakeVault.app**: Digital scrapbook app that captures kids' everyday moments before they're forgotten; in final app-store launch prep
+- **[WatchSafe.app](https://watchsafe.app)**: Patent-pending child-safety monitoring app for parents; 100+ granular-to-global controls over YouTube through a pre-approval model; live with early paid subscribers; in active partnership discussions with faith-based media distributors
+- **[RouteCaster.app](https://routecaster.app)**: Patent pending; most complex codebase in the portfolio, live and in testing (pre-app-store); travel-weather and route-planning platform integrating ~12-15 APIs (NOAA weather/wind, road conditions, fuel pricing, truck/RV restrictions, POI discovery, lodging/campsite booking)
+- **[CrossCurrent Digital](https://crosscurrentdigital.com)**: Faith-based alternative to Audible and Kindle for audiobooks, e-books, and podcasts; five years in operation; founded in direct response to Amazon's removal of "When Harry Became Sally" by Ryan T. Anderson, a book Claton had published
+- **[ChildThrive.org](https://childthrive.org)**: Patent-pending child welfare platform, grown out of Claton's personal experience as a foster parent; built relationships with national child-welfare and adoption ministries
+- **Crucible-MCP**: Custom-built MCP server integrating multiple apps with AI tools (Claude Code); powers BizPilotAI.app and other products (internal infrastructure, no public site)
+- **[BizPilotAI.app](https://bizpilotai.app)**: Second-brain, content-generation, and agentic content-creation/posting platform
+- **[OrganizeMe.click](https://organizeme.click)**: Personal productivity and task-management platform integrating Zoom, Stripe, and ClickUp, with custom OCR for Samsung Notes and reMarkable Notes
+- **[ScriptLoop.app](https://scriptloop.app)**: Pre-launch memorization app for scripture, facts, and figures; built for spiritual formation, homeschool, and educational use
+- **[PrayerTracker.app](https://prayertracker.app)**: App for tracking prayers, answered prayers, and time spent in prayer, with church "prayer chain" capabilities
+- **[KeepsakeVault.app](https://keepsakevault.app)**: Digital scrapbook app that captures kids' everyday moments before they're forgotten; in final app-store launch prep
 
 ## Technical Skills
 
