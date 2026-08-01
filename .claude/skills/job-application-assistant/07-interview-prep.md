@@ -59,7 +59,7 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 > [PREPARE YOUR ANSWER - show ambition aligned with the role's growth path]
 
 ### "What's your biggest weakness?"
-> Marketing and growth/distribution. Across his ventures, strong products and heavy development investment (e.g. roughly $500k into CrossCurrent Digital's build) have not automatically translated into scale, because the marketing engine needed to match that product investment wasn't there. Mitigation: actively seeks roles or teams where marketing/growth is a distinct function he partners with rather than owns solo, and treats this as a settled lesson from the founder years rather than an open problem to solve alone.
+> Marketing and growth/distribution. Across his ventures, strong products and heavy development investment (e.g. roughly $500k into CrossCurrent Digital's build) have not automatically translated into scale, because the marketing engine needed to match that product investment wasn't there. Rather than just living with the gap, built BizPilotAI.app, an AI-first second-brain and agentic content-generation/posting platform, to directly address it - a concrete example of turning a personal weak spot into an AI-transformation build, which is also the same instinct he'd bring to auditing an employer's gaps.
 
 ### "Why this company specifically?"
 > Customize per company. Must reference: specific projects, company values, market position, or team structure. Never give a generic answer.

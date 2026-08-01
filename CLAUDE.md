@@ -74,7 +74,7 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 - **Deliberate decision-maker** - Weighs decisions slowly and carefully, but becomes quick and decisive once a decision is made
 - **Builder-energized** - Energized by building things and solving concrete problems
 - **Strengths:** Full-cycle ownership (product, architecture, go-to-market), rapid AI-assisted execution, faith-informed judgment about which projects and partnerships to pursue
-- **Growth areas:** Marketing, social media, and growth/distribution are self-identified weaker areas; heavy upfront product-development investment (e.g. ~$500k into CrossCurrent Digital) without a matched marketing engine has made scaling difficult - values a role or team with marketing/growth support rather than owning that function solo. A StrengthsFinder result also exists but was taken during a period of exhaustion and is not considered reliable; can be revisited if retaken.
+- **Growth areas:** Marketing, social media, and growth/distribution are self-identified weaker areas; heavy upfront product-development investment (e.g. ~$500k into CrossCurrent Digital) without a matched marketing engine has made scaling difficult. Addressed this directly by building BizPilotAI.app, an AI-first second-brain and agentic content-generation/posting platform, turning a personal weak spot into a concrete AI-transformation build. A StrengthsFinder result also exists but was taken during a period of exhaustion and is not considered reliable; can be revisited if retaken.
 - **Thrives in:** Lean, builder-first environments where he can own meaningful scope end-to-end, or partner alongside an existing team, at organizations whose mission he can genuinely stand behind
 
 ### What Excites You
