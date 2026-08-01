@@ -42,6 +42,13 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 **R:** *[Add specific traction/results once available, e.g. confirmed partnerships, users onboarded, ministry endorsements]*
 **Use for:** "Tell me about a time personal experience shaped your professional work", "Why do you care about this mission?"
 
+### 5. Running AI adoption workshops for small business owners (AI transformation / teaching)
+**S:** Small business owners are often overwhelmed by email and task management and don't know where to start with AI.
+**T:** Wanted to teach practical, usable AI adoption rather than abstract AI hype.
+**A:** Built and runs a two-part workshop series: session one on AI-assisted email and task triage using OrganizeMe.click, followed by a second session on second-brain and AI marketing-agent workflows using BizPilotAI.app, using his own products as live working examples throughout.
+**R:** *[Add specific traction once available, e.g. number of businesses/owners trained, feedback, follow-on adoption]*
+**Use for:** "Tell me about a time you helped an organization adopt AI", "How would you approach an AI transformation audit for us?", "Tell me about translating a technical capability into something non-technical people can use"
+
 <!-- Add more STAR examples as needed. Aim for 4-6 covering different competencies. -->
 
 ## Common Tough Questions

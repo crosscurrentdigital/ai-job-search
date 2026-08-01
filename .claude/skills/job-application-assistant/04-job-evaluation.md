@@ -58,7 +58,7 @@ Does work history align with what they're looking for?
 | 40-59 | Adjacent experience, would need to make the case |
 | 0-39 | Unrelated experience |
 
-**Strong:** Building and shipping software products end-to-end with AI-assisted tools; Christian publishing/media operations; auditing workflows to find where AI/automation helps
+**Strong:** Building and shipping software products end-to-end with AI-assisted tools; Christian publishing/media operations; auditing workflows to find where AI/automation helps; direct experience teaching AI adoption to small business owners (runs a two-part workshop series on email/task triage and second-brain/marketing-agent workflows, using his own products as the working examples)
 **Moderate:** People development and process training at scale (Vitamin World: promoted staff with no prior experience up to management level across ~10 stores); church/ministry leadership and volunteer coordination
 **Entry-level:** N/A
 

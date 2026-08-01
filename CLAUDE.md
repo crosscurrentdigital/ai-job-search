@@ -29,6 +29,7 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
   - Personally architected and shipped multiple consumer apps end-to-end using AI-assisted coding tools (Claude Code, Cursor), including a child-safety monitoring app, a memorization/learning app, and a family-facing web platform
   - Filed three patents (micro-entity status confirmed) covering original product mechanics across the portfolio
   - Manages infrastructure across roughly 12 cloud environments (Fly.io, Netlify) supporting live production apps, including a private MCP server ("the Forge") powering multiple production apps
+  - Runs AI adoption workshops for small business owners: a first session on practical AI-assisted email and task triage (using OrganizeMe.click), followed by a second session on second-brain and AI marketing-agent workflows (using BizPilotAI.app)
 - **Founder & Owner** (Present) - **Two Words Publishing / Black Hills Audiobooks / Vision Audiobooks / Claton's Voice LLC**
   - Builds and operates a group of Christian and general-market audiobook and publishing companies; Two Words Publishing is the primary revenue engine funding the broader studio
   - Published titles in partnership with nearly every major Christian publisher
