@@ -59,6 +59,12 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 ### "How would you manage your existing businesses alongside a full-time role?"
 > Day-to-day operations for the publishing companies (Two Words Publishing / Black Hills Audiobooks / Vision Audiobooks / Claton's Voice LLC) and CrossCurrent Digital are already handled by a contract worker, using a combination of ClickUp, custom-built software, and OrganizeMe.click. Combined with how the industry itself has changed (audiobook CD phaseouts, AI-generated audio production), those businesses run effectively without requiring his day-to-day hands-on involvement. This is a concrete, already-in-place answer, not a plan to build - use it directly rather than a vaguer "I'll figure it out" response.
 
+### "Won't running your own companies alongside this role be a conflict / time commitment concern?"
+> Reframe the math directly: currently working close to 80 hours a week across the studio and businesses. A full-time role would actually *reduce* his hours significantly, since the existing ventures move to the background (contract-managed, as above) rather than being added on top of a new job. This is a strong, honest answer - use the actual hour reduction as the headline, not just "it won't be a problem."
+
+### "What's your notice period / when could you start?"
+> Realistically within a week of an offer, given the businesses are already contract-managed. One caveat to flag proactively if scheduling interviews or a start date near it: family is visiting from mid-August through the start of September 2026, so that window has less flexibility for travel or heavy onboarding logistics - worth surfacing early rather than letting it collide with a start date or interview loop.
+
 ### "Why did you leave [previous company]?"
 > [PREPARE YOUR ANSWER - be honest, forward-looking, no negativity about former employer]
 

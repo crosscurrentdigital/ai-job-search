@@ -41,7 +41,8 @@ When a job posting mentions these, flag as **potential friction** (not deal-brea
 - "highly structured process," "committee-driven decision-making," "narrow scope," "maintenance-focused"
 
 ## Management Style Preferences
-- Works well with light-touch management once trust is established: wants a clear mission and outcome, with autonomy on execution
+- As a manager: no strong preference between leading a team or staying an individual contributor/expert - open to either, whichever fits the role
+- As a report: works well with light-touch management once trust is established: wants a clear mission and outcome, with autonomy on execution
 - Doesn't work well with micromanagement of process or method once results are being delivered
 
 ## Using This in Applications

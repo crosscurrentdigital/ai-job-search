@@ -6,6 +6,8 @@ framework_version: 1.1.0
 
 <!-- SETUP: Skill match areas and career goals are personalized by running /setup -->
 
+**Candidate work authorization on file: U.S. citizen.** No eligibility-gate concerns for US-based roles; skip straight to scoring for domestic postings. Still check this section for any role that names a security-clearance requirement or a non-US jurisdiction.
+
 ## Eligibility Gate — run before scoring
 
 If the candidate is not a citizen or permanent resident of the country they are applying in, run this first. It is a hard filter, not a scoring dimension, and it is separate from work-permit *timing*: timing asks "can they work the required hours yet?", eligibility asks "are they permitted to hold this job at all?". A candidate can pass timing and still be categorically excluded.
@@ -79,6 +81,9 @@ Does the role and company culture match the behavioral profile?
 - Remote with occasional office: PASS
 - Requires relocation: FAIL (deal-breaker)
 - Frequent international travel: FLAG (discuss with user)
+- Amazon or an Amazon subsidiary: FAIL (hard exclude, see CLAUDE.md "Companies to Exclude")
+- No health/dental insurance or PTO offered (full-time roles only): FLAG - weigh alongside salary, not just a nice-to-have
+- Notice period: candidate can start within about a week of an offer; flag any role with an unusually fast or unusually slow expected start against that, and note the family-visit window (mid-August through start of September 2026) if scheduling falls there
 
 ### 5. Career Alignment & Motivation (0-100)
 Does this role advance career goals and contain tasks that energize?

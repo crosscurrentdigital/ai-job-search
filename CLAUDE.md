@@ -13,6 +13,7 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 ### Identity
 - **Name:** Claton Butcher
 - **Location:** Rapid City, South Dakota (remote-only, or on-site/hybrid in Rapid City, SD; not open to relocation)
+- **Work authorization:** U.S. citizen
 - **Languages:** English (native)
 - **CV language:** English
 
@@ -91,9 +92,15 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 - AI transformation / AI consulting: any mission-aligned organization seeking to audit its services and adopt custom AI solutions
 - Baseball / sports organizations (minor or major league): long-shot passion sector, worth surfacing if a fitting technical/AI role appears
 
+### Companies to Exclude
+- **Amazon** (and subsidiaries) - hard no. CrossCurrent Digital was founded in direct response to Amazon's removal of a book Claton had published; do not surface Amazon postings in `/scrape` results or draft applications to Amazon.
+
 ### Deal-breakers
 - Not remote and not based in Rapid City, SD (not open to relocation)
 - For full-time roles: below the $80k salary floor (targeting $120k-$200k for AI Transformation Lead / Staff Engineer-tier roles)
+- Health/dental insurance and PTO are must-haves for full-time roles, weighted alongside salary, not an afterthought
+- No management/IC preference either way - open to leading a team or staying an individual contributor/expert, whichever fits the role
+- Notice period: could start within about a week of an offer (existing businesses are contract-managed in the background); family visiting mid-August through the start of September 2026, so that window has less flexibility for travel-heavy onboarding or interview loops
 
 ### Work Arrangement Flexibility
 - Open to full-time, part-time, contract/consulting, or denominational roles, not full-time employment only

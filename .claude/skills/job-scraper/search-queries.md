@@ -99,3 +99,7 @@ If the user specifies a focus area, select queries from the matching category an
 ## Target Companies to Monitor
 
 - **Hallow** (already applied to an AI Transformation Lead-type role, ~$120k-$200k) - check for additional openings or status
+
+## Companies to Exclude
+
+- **Amazon** (and subsidiaries) - hard exclude. Never surface Amazon postings in scrape results. See CLAUDE.md "Companies to Exclude" for context.
