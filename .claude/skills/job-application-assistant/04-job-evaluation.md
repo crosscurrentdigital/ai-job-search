@@ -113,6 +113,7 @@ Does this role advance career goals and contain tasks that energize?
 
 ## Calibration from Past Applications
 - Applied to **Hallow** for an AI Transformation Lead-type role (~$120k-$200k); outcome not yet known. Treat this as a reference example of an ideal-fit target role and title when scoring similar postings.
+- **Enterprise-scale "Transformation Lead" postings are a poor fit, even when the title matches.** A `/scrape` result for Cordia's "Principal AI Transformation Lead" (8-12+ years IT/data/digital-transformation experience, cross-functional program leadership, proven track record standing up governance programs) was flagged by the candidate as exceeding his actual qualifications - his background is hands-on solo-founder building and small-business AI audits, not multi-year corporate governance-program leadership at large-enterprise scale. When scoring: a posting titled "AI Transformation Lead" that also asks for "Principal"-level seniority, a specific multi-year corporate tenure requirement, or standing up formal governance programs across a large enterprise should score **lower on Experience Match** than the title alone suggests - weight the seniority/scale signals in the requirements text, not just the title match. Better-fit signals: smaller or mid-size organizations, startup-scale AI roles, consulting/fractional engagements, or postings that emphasize hands-on building and audit-then-build work over enterprise program governance.
 
 ### 6. Salary Benchmark (Optional)
 

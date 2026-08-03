@@ -23,13 +23,13 @@ Secondary (company career pages via Google):
 
 ### Priority 1: AI Transformation / AI-First Builder Roles
 
-These match Claton's strongest and most desired career direction.
+These match Claton's strongest and most desired career direction. **Calibration note:** avoid "Principal"/enterprise-scale variants that ask for 8+ years of corporate cross-functional program governance experience (see `04-job-evaluation.md` Calibration section) - a Cordia posting matching that pattern was flagged as exceeding his actual qualifications. Favor smaller/mid-size orgs, startups, and consulting/fractional framing over large-enterprise governance-program language.
 
 ```
-site:indeed.com "AI Transformation Lead" remote
-site:indeed.com "AI Solutions Architect" remote
+site:indeed.com "AI Transformation Lead" remote -principal
+site:indeed.com "AI Solutions Architect" remote startup OR "small business"
 site:linkedin.com/jobs "AI Transformation" OR "AI Implementation Lead" remote
-site:linkedin.com/jobs "Head of AI" OR "AI Strategy Lead" remote
+site:linkedin.com/jobs "Head of AI" OR "AI Strategy Lead" startup OR small remote
 ```
 
 ### Priority 2: Faith-Based / Mission-Driven Organizations
