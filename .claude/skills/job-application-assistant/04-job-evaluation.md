@@ -60,7 +60,8 @@ Does work history align with what they're looking for?
 | 40-59 | Adjacent experience, would need to make the case |
 | 0-39 | Unrelated experience |
 
-**Strong:** Building and shipping software products end-to-end with AI-assisted tools; Christian publishing/media operations; auditing workflows to find where AI/automation helps; direct experience teaching AI adoption to small business owners (runs a two-part workshop series on email/task triage and second-brain/marketing-agent workflows, using his own products as the working examples)
+**Strong:** Building and shipping software products end-to-end with AI-assisted tools; Christian publishing/media operations; auditing workflows to find where AI/automation helps
+**Building toward, not yet delivered:** A two-part AI adoption workshop series for small business owners is planned (using BizPilotAI.app and OrganizeMe.click as the working examples) but has not launched yet - both products are still being finished, and no workshop has been run. Score "prior experience championing AI adoption within an org" as **not yet demonstrated**, not as a confirmed strength, until a workshop actually happens. Do not claim delivered workshops in a CV or cover letter.
 **Moderate:** People development and process training at scale (Vitamin World: promoted staff with no prior experience up to management level across ~10 stores); church/ministry leadership and volunteer coordination
 **Entry-level:** N/A
 

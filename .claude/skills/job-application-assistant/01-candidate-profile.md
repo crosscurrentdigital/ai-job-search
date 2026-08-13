@@ -32,7 +32,7 @@ Rapid City, SD
 - Filed three patents (micro-entity status confirmed) covering original product mechanics across the portfolio
 - Manages infrastructure across roughly 12 cloud environments (Fly.io, Netlify) supporting live production apps
 - Built and operates a private MCP server ("the Forge") powering multiple production apps
-- Runs AI adoption workshops for small business owners: a first session on practical AI-assisted email and task triage (using OrganizeMe.click), followed by a second session on second-brain and AI marketing-agent workflows (using BizPilotAI.app)
+- Building BizPilotAI.app and OrganizeMe.click as the working examples for a planned two-part AI adoption workshop series for small business owners (email/task triage, then second-brain and AI marketing-agent workflows); workshops have not launched yet - waiting until both products are fully ready before running the first session
 
 ### Founder & Owner - Two Words Publishing / Black Hills Audiobooks / Vision Audiobooks / Claton's Voice LLC (Present)
 - Builds and operates a group of Christian and general-market audiobook and publishing companies; Two Words Publishing is the primary revenue engine funding the broader studio

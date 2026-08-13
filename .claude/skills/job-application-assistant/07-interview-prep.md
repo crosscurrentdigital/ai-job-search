@@ -42,12 +42,13 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 **R:** *[Add specific traction/results once available, e.g. confirmed partnerships, users onboarded, ministry endorsements]*
 **Use for:** "Tell me about a time personal experience shaped your professional work", "Why do you care about this mission?"
 
-### 5. Running AI adoption workshops for small business owners (AI transformation / teaching)
+### 5. Building the tools for a planned AI adoption workshop series (AI transformation / teaching) - NOT YET DELIVERED, use carefully
+**Status:** BizPilotAI.app and OrganizeMe.click are still being finished; no workshop has been run yet. **Do not claim delivered workshops in an interview or application.** This is honestly a "building toward" story, not a completed STAR example - use the framing below, not a past-tense delivery claim.
 **S:** Small business owners are often overwhelmed by email and task management and don't know where to start with AI.
-**T:** Wanted to teach practical, usable AI adoption rather than abstract AI hype.
-**A:** Built and runs a two-part workshop series: session one on AI-assisted email and task triage using OrganizeMe.click, followed by a second session on second-brain and AI marketing-agent workflows using BizPilotAI.app, using his own products as live working examples throughout.
-**R:** *[Add specific traction once available, e.g. number of businesses/owners trained, feedback, follow-on adoption]*
-**Use for:** "Tell me about a time you helped an organization adopt AI", "How would you approach an AI transformation audit for us?", "Tell me about translating a technical capability into something non-technical people can use"
+**T:** Wanted to build the working examples first, rather than teach from theory - a planned two-part workshop series (email/task triage via OrganizeMe.click, then second-brain/AI marketing-agent workflows via BizPilotAI.app) needs finished, real products behind it before the first session runs.
+**A:** Building both products to completion first, specifically so the workshop teaches from live, working tools rather than a slide deck.
+**R:** Not yet run - deliberately sequenced to launch once both products are fully ready. If asked, be direct: "still in build phase, workshops launch once the tools are finished" is the honest answer, not something to round up to "already running."
+**Use for:** "How would you approach an AI transformation audit for us?", "Tell me about how you sequence a build", "Tell me about a project still in progress" - NOT for "tell me about a time you helped an organization adopt AI" (that implies a completed instance, which this isn't yet)
 
 <!-- Add more STAR examples as needed. Aim for 4-6 covering different competencies. -->
 
