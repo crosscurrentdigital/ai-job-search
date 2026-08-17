@@ -12,7 +12,7 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 ### Identity
 - **Name:** Claton Butcher
-- **Location:** Rapid City, South Dakota (remote-only, or on-site/hybrid in Rapid City, SD; not open to relocation)
+- **Location:** Rapid City, South Dakota. Day-to-day work arrangement **must be remote** (or on-site/hybrid only if actually based in Rapid City, SD); not open to relocation. Occasional travel (quarterly meetups, conferences, team offsites) is genuinely fine and not a deal-breaker - the requirement is about where day-to-day work happens, not about being unwilling to travel at all.
 - **Work authorization:** U.S. citizen
 - **Languages:** English (native)
 - **CV language:** English

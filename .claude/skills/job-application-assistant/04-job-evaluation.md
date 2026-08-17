@@ -79,9 +79,10 @@ Does the role and company culture match the behavioral profile?
 
 ### 4. Location & Logistics (Pass/Fail + Notes)
 - Within commute range: PASS
-- Remote with occasional office: PASS
+- Fully remote day-to-day, with occasional travel (quarterly meetups, conferences, offsites): PASS - occasional travel is genuinely fine and not a deal-breaker
+- Requires regular in-office or hybrid presence (not just occasional travel) unless the role is based in Rapid City, SD: FAIL (deal-breaker) - **watch for contradictory signals**, e.g. a posting tagged "#LI-Remote" that also says the employer "prioritizes in-office presence"; treat that as unresolved and confirm directly rather than assuming remote-eligible
 - Requires relocation: FAIL (deal-breaker)
-- Frequent international travel: FLAG (discuss with user)
+- Heavy/constant travel (not occasional) that would functionally undercut the desired reduction in hours/intensity: FLAG (discuss with user)
 - Amazon or an Amazon subsidiary: FAIL (hard exclude, see CLAUDE.md "Companies to Exclude")
 - No health/dental insurance or PTO offered (full-time roles only): FLAG - weigh alongside salary, not just a nice-to-have
 - Notice period: candidate can start within about a week of an offer; flag any role with an unusually fast or unusually slow expected start against that, and note the family-visit window (mid-August through start of September 2026) if scheduling falls there
