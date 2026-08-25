@@ -105,6 +105,7 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 ### Work Arrangement Flexibility
 - Open to full-time, part-time, contract/consulting, or denominational roles, not full-time employment only
 - Part-time/contract work is not expected to clear the $80k full-time floor, but should offer genuinely worthwhile compensation for the time and value provided
+- **Freelance marketplace work (Upwork, Freelancer.com) is explicitly supplemental income, not a path to full-time hours.** Target scope is small, fixed-price engagements in the roughly $500-$2,000 range per project - not ongoing retainers and not enough volume to add up to full-time work. TaskRabbit is not a fit (physical/local task marketplace only, no AI/software-consulting relevance).
 - **Steady, predictable full-time employment is currently the top priority** - family is growing through adoption, and there is a strong desire to move away from the grueling, self-imposed hours of solo-founder work toward sustainable, reasonable hours. Weight roles that offer real stability and healthy boundaries higher; flag postings that signal always-on/crunch culture. *(This is internal fit-evaluation context only - never reference family, adoption, or personal life circumstances in a CV or cover letter.)*
 
 ## Repo Structure
